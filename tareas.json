@@ -1,0 +1,5 @@
+[{"titulo": "Secar Ropa", "estado": "terminada"},
+{"titulo":"Colgar Ropa", "estado": "en progreso"},
+{"titulo":"Lavar Plato", "estado": "pendiente"},
+{"titulo":"Tender la cama", "estado": "en progreso"}
+]
